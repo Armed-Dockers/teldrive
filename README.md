@@ -16,7 +16,7 @@ Telegram Drive is a powerful utility that enables you to create your own cloud s
       <li>
       <a href="#features">Features</a>
     </li>
-        <li><a href="#deploy-using-docker-compose">Deploy using docker-compose</a></li>
+        <li><a href="#deplo-using-docker-compose">Deploy using docker-compose</a></li>
        <li><a href="#use-without-docker">Use without docker</a></li>
       </ul>
     </li>
